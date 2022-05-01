@@ -1,0 +1,41 @@
+gnome-tweaks
+
+brightness adjustment 
+chrome vscode installation 
+python renaming
+
+dns to 8.8.8.8,8.8.4.4
+//enable partner repositories
+https://www.youtube.com/watch?v=GrI5c9PXS5k
+
+sudo dpkg -i package_file.deb
+
+theme-adwaita-dark
+scaling factor:1.23 
+other font sizes : 12 14 14 14
+
+sudo apt install python3-pip
+sudo apt install python-is-python3
+sudo apt install vlc
+
+click to minimize:  gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+
+change view type to list view trivial
+
+
+fix volume up down issue (not fixed but still):
+gsettings reset org.gnome.settings-daemon.plugins.media-keys volume-up
+gsettings reset org.gnome.settings-daemon.plugins.media-keys volume-down
+gsettings reset org.gnome.settings-daemon.plugins.media-keys volume-mute
+
+ms teams .deb package exist so no issues here 
+discord exists for linux
+notion official dne 
+whatsapp official dne 
+telegram official version exists for linux 
+
+unsolved debugger issue in vscode: compile with -g flag and then add the configuration of gdb launch
+
+yt-dlp --format bestaudio --extract-audio --audio-format mp3 link
+
+
